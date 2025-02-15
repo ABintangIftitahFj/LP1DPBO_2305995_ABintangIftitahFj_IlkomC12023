@@ -1,6 +1,8 @@
 # LP1DPBO_2305995_ABintangIftitahFj_IlkomC12023
 lp1 DPBO - A Bintang Iftitah FJ
 
+Saya A Bintang Iftitah FJ dengan NIM 2305995 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 -HASIL OUTPUT-
 TES YANG DI UJIKAN
 1. add 2. show. 3.edit 4.seacrh 5. delete
